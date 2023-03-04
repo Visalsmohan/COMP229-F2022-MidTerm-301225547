@@ -1,0 +1,15 @@
+/* Custom CSS goes here */
+body {
+  background-image: url("/Assets/images/bg.jpg");
+background-size: cover;
+}
+
+.container{
+  color: white;
+}
+.table-responsive{
+  color: black;
+}
+.row{
+  margin-bottom: 20%;
+}
